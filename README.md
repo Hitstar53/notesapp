@@ -14,7 +14,7 @@ git clone https://github.com/Hitstar53/notesapp.git
 2. Create a virtual environment and activate it
 ```
 virtualenv venv
-venv/bin/activate
+source venv/bin/activate
 ```
 3. Install the requirements
 ```
