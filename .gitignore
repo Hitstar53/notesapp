@@ -3,6 +3,7 @@
 # ignore .vscode folder
 .vscode
 
+
 # dependencies
 /node_modules
 /.pnp
@@ -26,3 +27,7 @@ yarn-debug.log*
 yarn-error.log*
 
 /secrets
+/venv
+/api/__pycache__
+/api/migrations/__pycache__
+/notesapp/__pycache__
